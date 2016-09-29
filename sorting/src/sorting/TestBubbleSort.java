@@ -23,7 +23,7 @@ public class TestBubbleSort {
 				}	
 			}
 			// 如果本趟循环没有发生位置交换，那么退出循环。
-
+			sysout(貌似这样也不会发生冲突)
 
 
 		}
