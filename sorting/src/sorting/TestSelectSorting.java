@@ -17,7 +17,7 @@ public class TestSelectSorting {
 			}
 //			内循环结束后，把当前第一个元素与本趟循环中最小的元素交换位置。
 			int temp=arr[i];
-			arr[i]=arr[minIndex];
+			
 			arr[minIndex]=temp;
 			
 			printArr(arr);
