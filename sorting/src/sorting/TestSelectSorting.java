@@ -29,6 +29,7 @@ public class TestSelectSorting {
 //		循环数组中的每一个元素，并打印出来
 		for (int i = 0; i < arr.length; i++) {
 			System.out.print(arr[i]+",");
+			sysout(hahaha!!!!!!!!!!!!!!!!!!!);
 		}
 	}
 	
