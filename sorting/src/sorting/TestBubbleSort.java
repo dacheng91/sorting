@@ -23,11 +23,7 @@ public class TestBubbleSort {
 				}	
 			}
 			// 如果本趟循环没有发生位置交换，那么退出循环。
-			if (isSwap == false) {
-				break;
-			}
-//			打印出每一趟排序后的顺序
-			printArr(arr,12);
+
 
 
 		}
