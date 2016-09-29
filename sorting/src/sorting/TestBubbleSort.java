@@ -9,21 +9,7 @@ public class TestBubbleSort {
 
 	public void bubbleSort(int arr[], int n) {
 		// 进行n-1趟循环
-		for (int i = 0; i < n - 1; i++) {
-			// 定义是否交换位置的标记
-			boolean isSwap = false;
-			// 最初n-1次比较，然后逐级递减，但是每次都要从第一个元素开始比较。
-			for (int j = 0; j < n - 1-i; j++) {
-				// 如果左边元素大于右边元素，那么交换元素位置，发生位置交换改变标记
-				if (arr[j] > arr[j + 1]) {
-					int temp = arr[j + 1];
-					arr[j + 1] = arr[j];
-					arr[j] = temp;
-					isSwap = true;
-				}	
-			}
-			// 如果本趟循环没有发生位置交换，那么退出循环。
-			sysout(貌似这样也不会发生冲突)
+	
 
 
 		}
