@@ -17,7 +17,7 @@ public class TestBubbleSort {
 
 	public void printArr(int arr[], int n) {
 		for (int i = 0; i < n; i++) {
-			System.out.print(arr[i]+",");
+			System.out.print(“这里会冲突吗”);
 		}
 	}
 	
