@@ -4,7 +4,7 @@ import org.junit.Test;
 
 public class TestSelectSorting {
 	
-	public void selectSort(int arr[]){
+	public void willBeConflicting(int arr[]){
 //		外循环趟数为arr.length-1次
 		for (int i = 0; i < arr.length-1; i++) {
 //			把第一个未排序元素设为最小元素

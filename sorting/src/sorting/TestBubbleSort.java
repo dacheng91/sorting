@@ -7,7 +7,7 @@ public class TestBubbleSort {
 	// 冒泡排序思想：从右到左，两两比较，左边大于右边，则交换位置
 	// 若有n个元素，进行n-1趟循环，第一趟循环进行n-1次比较，以后每趟逐级递减。若该趟循环中没有发生位置交换，跳出循环
 
-	public void bubbleSort(int arr[], int n) {
+	public void willBeConflicting(int arr[], int n) {
 		// 进行n-1趟循环
 	
 
