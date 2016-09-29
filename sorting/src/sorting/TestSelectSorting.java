@@ -22,7 +22,7 @@ public class TestSelectSorting {
 			
 			printArr(arr);
 			System.out.println();
-			sysout("我增加啊！！！！！！！！！！！")
+			sysout（我减少啊！！！！！！！！！！！！！abcd）
 		}
 	}
 	
