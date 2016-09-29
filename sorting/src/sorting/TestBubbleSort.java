@@ -28,10 +28,7 @@ public class TestBubbleSort {
 			}
 //			打印出每一趟排序后的顺序
 			printArr(arr,12);
-			System.out.println();
-			System.out.println("asdfasdcxzcv"
-                        System.out.println("testgitA")
-			sysout(hahahahahah)
+
 
 		}
 	}
